@@ -22,17 +22,17 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · PostgreSQL · SQL · Power
 
 KPI	Value
 
-Total Sales	-----------------------------------> 13.59M
+Total Sales	------------------------------------> 13.59M
 
 Total Orders -----------------------------------> 98.67K
 
-Average Order Value	-----------------------------------> 137.75
+Average Order Value	----------------------------> 137.75
 
-Total Items Sold ----------------------------------->	113K
+Total Items Sold -------------------------------> 113K
 
-Late Delivery Rate ----------------------------------->	8.11%
+Late Delivery Rate ----------------------------->	8.11%
 
-Average Review Score ----------------------------------->	4.09
+Average Review Score --------------------------->	4.09
 
 🔍 Analysis Performed
 
@@ -92,7 +92,7 @@ E-Commerce-Sales-Customer-Analytics/
 
 ├── E_Commerce_Sales_&_Customer_Analytics.ipynb   # Full analysis: EDA, SQL, insights
 
-├── E-Commerce_Sales___Customer_Analytics.pbix    # Power BI dashboard
+├── E-Commerce Sales & Customer Analytics.pbix    # Power BI dashboard
 
 ├── dashboard_screenshot.png                      # Dashboard preview
 
